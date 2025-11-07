@@ -1,2 +1,4 @@
-# requirements.txt
-cryptography==42.0.8
+pywin32==306  # Pour Windows uniquement
+pycaw==2023.7.24  # Pour Windows uniquement
+keyboard==0.13.5
+Pillow==10.3.0
